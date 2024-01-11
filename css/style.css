@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(128, 191, 243);
+  /*background-image: url('../img/圖片2.png');*/
+  background-repeat: no-repeat;
+  margin: 0;
+}
+h1 {
+  font-size: 200px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  background-color: antiquewhite;
+  padding: 18vw;
+}
+p {
+  font-size: 80px;
+  background-color: rgb(139, 139, 139);
+  text-align: center;
+}
+img {
+  height: 500px;
+  width: 500px;
+}
+
+a:hover {
+  color: bisque;
+}
+a:active {
+  color: rgb(0, 0, 0);
+}
+
+ul {
+  list-style-type: none;
+  background-color: rgb(228, 219, 138);
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: rgb(80, 11, 11);
+  font-size: large;
+  text-align: center;
+  padding: 25px;
+  text-decoration: none;
+}
+
+div.motherContainer {
+....display:flex: ;
+}
+
+div.motherContainer div.left{}
